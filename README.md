@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 [<img align="left" alt="abinashstack | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="abinashstack | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abinashstack | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br>
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="abinashstack's Github Stats" src="[![Abinash's github stats](https://github-readme-stats.vercel.app/api?username=abinashstack)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img align="left" alt="abinashstack's Github Stats" src="[![Abinash's github stats](https://github-readme-stats.vercel.app/api?username=abinashstack&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)" />
 
 </details>
 
