@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="abinashstack's Github Stats" src="[![Abinash's github stats](https://github-readme-stats.vercel.app/api?username=abinashstack&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img align="left" alt="abinashstack's Github Stats" src="[![Abinash's github stats](https://github-readme-stats.vercel.app/api?username=abinashstack&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)" />
 
 </details>
 
