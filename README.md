@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with backend-api's
 - 💬 Ask me about anything..😄
 - 📫 How to reach me:abinash.gogoi55@gmail.com
-- ⚡ Fun fact: I love travelling 😄
+- ⚡ Fun fact: I love to travel 😄
 
 ### Connect with me:
 [<img align="left" alt="abinashstack | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
