@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on website involving node.js
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...wait....everything
 - 👯 I’m looking to collaborate on web and android projects 
 - 🤔 I’m looking for help with backend-api's
-- 💬 Ask me about ...
+- 💬 Ask me about anything..😄
 - 📫 How to reach me:abinash.gogoi55@gmail.com
 - ⚡ Fun fact: I love travelling 😄
 
