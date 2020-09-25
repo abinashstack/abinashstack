@@ -1,13 +1,16 @@
-### Hi there I am Abinash 👋
+### Hi there!! I am Abinash 👋👋👋👋👋👋👋
+
+
+-✨✨✨ - A Tech enthusiast who is trying to get a grasp of everything, from AI & Quantum-Physics to web and android -dev.
 
 <!--
 **abinashstack/abinashstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on website involving node.js
+- 🔭 I’m currently working on my-routine😄
 - 🌱 I’m currently learning ...wait....everything
-- 👯 I’m looking to collaborate on web and android projects 
+- 👯 I’m looking to collaborate on web and android-projects 
 - 🤔 I’m looking for help with backend-api's
 - 💬 Ask me about anything..😄
 - 📫 How to reach me:abinash.gogoi55@gmail.com
