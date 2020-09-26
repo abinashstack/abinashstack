@@ -39,12 +39,8 @@ Here are some of my details to get you started:
 
 <br />
 <br />
-<details>
-  <summary>:zap: Github Stats</summary>
+<br />
 
-  <img align="left" alt="abinashstack's Github Stats" src="[![Abinash's github stats](https://github-readme-stats.vercel.app/api?username=abinashstack&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)" />
-
-</details>
 
 [facebook]: https://www.facebook.com/abinash.gogoi.18007
 [instagram]:https://www.instagram.com/abinash.gogoi55/
