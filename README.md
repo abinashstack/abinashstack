@@ -42,13 +42,13 @@ Here are some of my details to get you started:
 <br />
 
 [<img align="left" alt="npm" width="150px" src="https://badge.fury.io/js/shadow-package.svg" />][npm]
-<br />
+
 [<img align="left" alt="npm1" width="150px" src="https://badge.fury.io/js/shadow-package.svg" />][npm1]
-<br />
+
 [<img align="left" alt="Pypi" width="150px" src="https://badge.fury.io/py/hithere.svg" />][Pypi]
-<br />
+
 [<img align="left" alt="npm2" width="150px" src="https://badge.fury.io/js/shadowwizards.svg" />][npm2].
-<br />
+
 
 [npm]: https://www.npmjs.com/package/py-pack-ag
 [npm1]: https://www.npmjs.com/package/styling_views_wiz
