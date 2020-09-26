@@ -41,6 +41,7 @@ Here are some of my details to get you started:
 <br />
 <br />
 <a href="https://badge.fury.io/js/py-pack-ag"><img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/js/py-pack-ag.svg" />
+[![npm version](https://badge.fury.io/js/py-pack-ag.svg)](https://badge.fury.io/js/py-pack-ag)
 <br />
 <img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/js/shadow-package.svg" />
 <br />
