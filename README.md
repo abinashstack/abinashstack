@@ -51,7 +51,7 @@ Here are some of my details to get you started:
 <br />
 
 [npm]: https://www.npmjs.com/package/py-pack-ag
-[npm1]: https://badge.fury.io/js/shadow-package
+[npm1]: https://www.npmjs.com/package/styling_views_wiz
 [Pypi]: https://pypi.org/project/hithere/
 [npm2]: https://www.npmjs.com/package/shadowwizards
 [facebook]: https://www.facebook.com/abinash.gogoi.18007
