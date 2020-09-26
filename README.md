@@ -46,7 +46,7 @@ Here are some of my details to get you started:
 <br />
 <img align="left" alt="Pypi-package" width="150px" src="https://badge.fury.io/py/hithere.svg" />
 <br />
-<img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/py/shadowwizards.svg" />
+<img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/js/shadowwizards.svg" />
 <br />
 
 
