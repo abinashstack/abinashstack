@@ -40,13 +40,14 @@ Here are some of my details to get you started:
 <br />
 <br />
 <br />
+### Connect with me:
 [<img align="left" alt="npm" width="150px" src="https://badge.fury.io/js/py-pack-ag.svg" />][npm]
 <br />
 [<img align="left" alt="npm1" width="150px" src="https://badge.fury.io/js/shadow-package.svg" />][npm1]
 <br />
 [<img align="left" alt="Pypi" width="150px" src="https://badge.fury.io/py/hithere.svg" />][Pypi]
 <br />
-[<img align="left" alt="npm2" width="150px" src="https://badge.fury.io/js/shadowwizards.svg" />][npm2]
+[<img align="left" alt="npm2" width="150px" src="https://badge.fury.io/js/shadowwizards.svg" />][npm2].
 <br />
 
 [npm]: https://badge.fury.io/js/py-pack-ag
