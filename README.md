@@ -43,8 +43,11 @@ Here are some of my details to get you started:
 <img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/js/py-pack-ag.svg" />
 <br />
 <img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/js/shadow-package.svg" />
+<br />
 <img align="left" alt="Pypi-package" width="150px" src="https://badge.fury.io/py/hithere.svg" />
+<br />
 <img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/py/shadowwizards.svg" />
+<br />
 
 
 [facebook]: https://www.facebook.com/abinash.gogoi.18007
