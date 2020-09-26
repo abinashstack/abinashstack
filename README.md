@@ -40,7 +40,7 @@ Here are some of my details to get you started:
 <br />
 <br />
 <br />
-<img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/js/py-pack-ag.svg" />
+<a href="https://badge.fury.io/js/py-pack-ag"><img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/js/py-pack-ag.svg" />
 <br />
 <img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/js/shadow-package.svg" />
 <br />
