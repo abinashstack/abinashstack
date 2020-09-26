@@ -40,7 +40,8 @@ Here are some of my details to get you started:
 <br />
 <br />
 <br />
-<img align="left" alt="npm-package" width="120px" src="https://badge.fury.io/js/py-pack-ag.svg" />
+<img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/js/py-pack-ag.svg" />
+<br />
 <img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/js/shadow-package.svg" />
 <img align="left" alt="Pypi-package" width="150px" src="https://badge.fury.io/py/hithere.svg" />
 <img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/py/shadowwizards.svg" />
