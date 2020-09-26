@@ -40,6 +40,11 @@ Here are some of my details to get you started:
 <br />
 <br />
 <br />
+### Packages
+<img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/js/py-pack-ag.png" />
+<img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/js/shadow-package.png" />
+<img align="left" alt="Pypi-package" width="150px" src="https://badge.fury.io/py/hithere.png" />
+<img align="left" alt="npm-package" width="150px" src="https://badge.fury.io/py/shadowwizards.png" />
 
 
 [facebook]: https://www.facebook.com/abinash.gogoi.18007
