@@ -1,4 +1,4 @@
-### Hi there!!  👋👋 I am Abinash ✨✨✨🤔🤔🤔🤔
+### Hi there!!  👋👋 I am Abinash ✨✨✨ 😄😄😄😄
 
 
 -✨✨✨ - A Tech enthusiast who is trying to get a grasp of everything, from AI & Quantum-Physics to web and android -dev.
