@@ -9,7 +9,7 @@
 
 Here are some of my details to get you started:
 
-- 🔭 I’m currently working on my-routine😄
+- 🔭 I’m currently a student of NIT SILCHAR😄
 - 🌱 I’m currently an undergrad in Computer-Science
 - 👯 I’m looking to collaborate on web and android-projects 
 - 🤔 I’m looking for help with backend-api's
