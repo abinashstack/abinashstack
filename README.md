@@ -12,8 +12,7 @@ Here are some of my details to get you started:
 - 🔭 I’m currently a student of NIT SILCHAR😄
 - 🌱 I’m currently an undergrad in Computer-Science
 - 👯 I’m looking to collaborate on web and android-projects 
-- 🤔 I’m looking for help with JWT authentication
-- 💬 Ask me about anything..😄
+- 💬 Ask me about anything..🤔
 - 📫 How to reach me: abinash.gogoi55@gmail.com
 - ⚡ Fun fact: I love to travel 😄
 
