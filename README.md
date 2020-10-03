@@ -2,7 +2,7 @@
 <br/>
 
 
--✨✨✨ - A Tech enthusiast who is trying to get a grasp of everything, from AI & Quantum-Physics to web and android -dev.
+-✨✨✨ - A Tech enthusiast
 
 <!--
 **abinashstack/abinashstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
