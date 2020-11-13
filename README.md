@@ -55,3 +55,6 @@ Here are some of my details to get you started:
 [facebook]: https://www.facebook.com/abinash.gogoi.18007
 [instagram]:https://www.instagram.com/abinash.gogoi55/
 [linkedin]: https://www.linkedin.com/in/abinash-gogoi-1b760a187/
+
+
+[![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=abinashstack)](https://github.com/anuraghazra/github-readme-stats)
