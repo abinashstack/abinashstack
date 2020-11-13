@@ -1,9 +1,5 @@
 ### Hi there!!  👋👋 I am Abinash ✨✨✨ 😄😄😄😄
 <br/>
-
-
--✨✨✨ - A Tech enthusiast
-
 <!--
 **abinashstack/abinashstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -39,6 +35,8 @@ Here are some of my details to get you started:
 <br />
 <br />
 
+[![Abinash's github stats](https://github-readme-stats.vercel.app/api?username=abinashstack)](https://github.com/anuraghazra/github-readme-stats)
+
 [<img  alt="npm" width="150px" src="https://badge.fury.io/js/shadow-package.svg" />][npm]
 
 [<img  alt="npm1" width="150px" src="https://badge.fury.io/js/shadow-package.svg" />][npm1]
@@ -57,4 +55,3 @@ Here are some of my details to get you started:
 [linkedin]: https://www.linkedin.com/in/abinash-gogoi-1b760a187/
 
 
-[![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=abinashstack)](https://github.com/anuraghazra/github-readme-stats)
