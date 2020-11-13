@@ -5,10 +5,8 @@
 
 Here are some of my details to get you started:
 
-- 🔭 I’m currently a student of NIT SILCHAR😄
-- 👯 I’m looking to collaborate on web and android-projects 
-- 💬 Ask me about anything..🤔
-- 📫 How to reach me: abinash.gogoi55@gmail.com
+- 🔭 I’m currently a student of NIT SILCHAR😄 
+- 💬 How to reach me: abinash.gogoi55@gmail.com
 
 ### Connect with me:
 [<img align="left" alt="abinashstack | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
