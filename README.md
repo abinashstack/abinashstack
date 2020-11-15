@@ -34,6 +34,8 @@ Here are some of my details to get you started:
 <br />
 
 [![Abinash's github stats](https://github-readme-stats.vercel.app/api?username=abinashstack)](https://github.com/anuraghazra/github-readme-stats)
+![Abinash's github stats](https://github-readme-stats.vercel.app/api?username=abinashstack&show_icons=true&theme=radical)
+
 
 [<img  alt="npm" width="150px" src="https://badge.fury.io/js/shadow-package.svg" />][npm]
 
