@@ -66,13 +66,13 @@
 <br>
 <br>
 <br>
-[<img  alt="npm" width="150px" src="https://badge.fury.io/js/shadow-package.svg" />][npm]
+[<img  alt="npm" width="150px" src="https://badge.fury.io/js/shadow-package.svg"/>][npm]
 
-[<img  alt="npm1" width="150px" src="https://badge.fury.io/js/shadow-package.svg" />][npm1]
+[<img  alt="npm1" width="150px" src="https://badge.fury.io/js/shadow-package.svg"/>][npm1]
 
-[<img  alt="Pypi" width="150px" src="https://badge.fury.io/py/hithere.svg" />][Pypi]
+[<img  alt="Pypi" width="150px" src="https://badge.fury.io/py/hithere.svg"/>][Pypi]
 
-[<img  alt="npm2" width="150px" src="https://badge.fury.io/js/shadowwizards.svg" />][npm2]
+[<img  alt="npm2" width="150px" src="https://badge.fury.io/js/shadowwizards.svg"/>][npm2]
 
 
 [npm]: https://www.npmjs.com/package/py-pack-ag
