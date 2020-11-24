@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abinash Gogoi</h1>
 <br/>
+
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
  
 <p align="center">
@@ -59,17 +60,9 @@ Here are some of my details to get you started:
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 
-<br />
-<br />
-<br />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abinashstack&show_icons=true&locale=en&layout=compact" alt="Abinash Gogoi" /></p>
-<br/>
-<br/>
-
-![Abinash's github stats](https://github-readme-stats.vercel.app/api?username=abinashstack&show_icons=true&theme=radical)
-
-
+<br>
+<br>
+<br>
 [<img  alt="npm" width="150px" src="https://badge.fury.io/js/shadow-package.svg" />][npm]
 
 [<img  alt="npm1" width="150px" src="https://badge.fury.io/js/shadow-package.svg" />][npm1]
