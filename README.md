@@ -30,10 +30,11 @@
 <br>
 <br>
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=abinashstack&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" 
 <br>
 <br>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abinashstack&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Abinash's Github Stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abinashstack&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Abinash's Github Stats">
 </p>
 <br>
 <p align='center'>
