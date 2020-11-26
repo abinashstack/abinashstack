@@ -37,7 +37,7 @@
 </p>-->
 <br>
 <p align="center">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinashstack&show_icons=true&hide_border=true&theme=radical">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinashstack&show_icons=true&hide_border=true&theme=radical">
  </p>
 <br>
 <br>
