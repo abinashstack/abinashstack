@@ -65,7 +65,6 @@
 
 <br>
 <br>
-<br>
 <!--[<img  alt="npm" width="150px" src="https://badge.fury.io/js/shadow-package.svg"/>][npm]
 [<img  alt="npm1" width="150px" src="https://badge.fury.io/js/shadow-package.svg"/>][npm1]
 [<img  alt="Pypi" width="150px" src="https://badge.fury.io/py/hithere.svg"/>][Pypi]
@@ -77,9 +76,3 @@
 [Pypi]: https://pypi.org/project/hithere/
 [npm2]: https://www.npmjs.com/package/shadowwizards-->
 
-
-
-
-#### Thank You-🙏🏼
-
-⭐️ From [Abinash Gogoi](https://github.com/abinashstack)
