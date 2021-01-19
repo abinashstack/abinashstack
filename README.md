@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently a student of NIT SILCHAR😄 
 - 🧗 How to reach me: abinash.gogoi55@gmail.com
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2021 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love connecting with different people :👋
 - 💬 Ask me about anything, I am happy to help :smile:
 
