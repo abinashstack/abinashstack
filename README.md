@@ -9,15 +9,6 @@
 
 <p align="center">
 
-
-<h3 align="center">Here are some of my details to get you started:</h3>
-
-- 🔭 I’m currently a student of NIT SILCHAR😄 
-- 🧗 How to reach me: abinash.gogoi55@gmail.com
-- 🥅 2021 Goals: Contribute to Open Source projects
-- ⚡ Fun fact: I love connecting with different people :👋
-- 💬 Ask me about anything, I am happy to help :smile:
-
 ### Connect with me:
 <p align="center">
 <br>
